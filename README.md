@@ -54,7 +54,7 @@ Can you spot all the cute critters?</h3>
     -   dotenv
     -   express-validator
 
--   Server hosting: Koyeb - i-spy-chiikawa.koyeb.app
+-   Server hosting: Render
 -   Database hosting: Neon.tech
 -   Frontend hosting: Netlify
 
